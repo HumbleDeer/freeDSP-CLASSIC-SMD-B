@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name freeDSP_Classic_SMD-rescue)(type Legacy)(uri ${KIPRJMOD}/freeDSP_Classic_SMD-rescue.lib)(options "")(descr ""))
+  (lib (name "freeDSP_Classic_SMD-rescue")(type "KiCad")(uri "${KIPRJMOD}/freeDSP_Classic_SMD-rescue.kicad_sym")(options "")(descr ""))
 )
